@@ -8,3 +8,9 @@ body{
     align-items: center;
     flex-direction: column;
 }
+h1 {
+    font-size: 60px;
+    color:aqua ;
+    font-weight: 700;
+}
+
